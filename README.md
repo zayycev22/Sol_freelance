@@ -77,9 +77,3 @@ $ source new_venv/bin/activate
 deactivate
 ```
 
-Установка *pygame*:
-
-```bash
-(bomberman_venv) ~$ python3 -m pip install --upgrade pip
-(bomberman_venv) ~$ pip install pygame
-```
